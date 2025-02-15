@@ -1,4 +1,4 @@
-package proyecto.so.planifications;
+package planifications;
 
 public class RoundRobin {
     private int numProcess; // Número total de procesos
